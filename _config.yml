@@ -100,5 +100,5 @@ theme: landscape
 ## https://github.com/dedeguo/dedeguo.github.io.git
 deploy:
   type: git
-  repo: https://github.com/username/username.github.io.git
+  repo: https://github.com/dedeguo/dedeguo.github.io.git
   branch: master
